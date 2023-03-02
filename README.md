@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rouge+Script&size=42&pause=1000&color=0334EA&background=37373700&center=true&vCenter=true&multiline=true&width=435&height=128&lines=Software+Engineer++;Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rouge+Script&size=42&pause=1000&color=0334EA&background=37373700&multiline=true&width=435&height=128&lines=Software+Engineer++;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 <!--
 **Nour-Alahmad/Nour-Alahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
