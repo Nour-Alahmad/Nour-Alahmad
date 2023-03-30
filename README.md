@@ -1,17 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rouge+Script&size=42&pause=1000&color=0334EA&background=37373700&multiline=true&width=435&height=128&lines=Software+Engineer++;Full-Stack+Web+Developer)](https://git.io/typing-svg)
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<div >
 
-<!--
-**Nour-Alahmad/Nour-Alahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Italianno&size=60&pause=1000&color=355FFF&multiline=true&width=500&height=150&lines=Software+Engineer;Full-Stack+Web+Developer)](https://git.io/typing-svg)
+</div>
 
-Here are some ideas to get you started:
+<h3>As a programmer ^^, the most important thing I've realized and keep learning for is <em><strong> "complexity has nothing to do with intelligence, simplicity does" </em></strong> O_O , so I will grow to be simpler  ( :  </h3> </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> My Skills & Tools So Far : </h2>
+
+<p >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="./assests/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" alt="pandas" width="50" height="40"/>
+<img src="./assests/event-cover-5388.png" alt="pandas" width="40" height="40"/>
+<img src="./assests/icons-hero.png" alt="pandas" width="50" height="40"/>
+<img src="./assests/java-logo-1.png" alt="pandas" width="50" height="50"/>
+<img src="./assests/mysql-5-logo-png-transparent.png" alt="pandas" width="60" height="50"/>
+
+
+![Snake animation](https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/5ccdcc10988dde04d2cc849e4a6ffaa0010c2267/resources/img/grid-snake.svg)
+       
