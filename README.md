@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Italianno&size=60&pause=1000&color=355FFF&multiline=true&width=500&height=150&lines=Software+Engineer;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 </div>
 
-<h3>As a programmer ^^, the most important thing I've realized and keep learning for is <em><strong> "complexity has nothing to do with intelligence, simplicity does" </em></strong> O_O </h3> </br>
+<h3> <em><strong> "complexity has nothing to do with intelligence, simplicity does" </em></strong> O_O </h3> </br>
 
 <h2> My Skills & Tools So Far : </h2>
 
